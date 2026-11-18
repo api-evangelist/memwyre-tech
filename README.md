@@ -1,4 +1,4 @@
-# memwyre-tech
+# Memwyre
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,97 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-memwyre-tech is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://memwyre.tech/
+Memwyre is an AI memory platform that provides persistent, shared memory for AI tools, agents, and conversations. It enables developers to capture, store, and retrieve context across multiple applications such as ChatGPT, Claude, Cursor, and custom IDE integrations. The service offers free and paid tiers, supports secure encrypted storage, and includes a Model Context Protocol (MCP) server for real‑time access. Founded by Himansh Shivhare, Memwyre aims to eliminate agent amnesia and streamline context engineering for developers.
+
+**Areas:** Company · AI · Memory · Platform · Developer
+
+## Memwyre on APIs.io
+
+Everything profiled for Memwyre is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/memwyre-tech/](https://apis.io/providers/memwyre-tech/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Memwyre API](https://apis.io/apis/memwyre-tech/memwyre-api/) — Memwyre provides an AI memory platform with a Model Context Protocol (MCP) server for real‑time access. Documentation is hosted at https://docs.memwyre.tech/.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Memwyre Domain Security](https://apis.io/security/memwyre-tech/memwyre-tech-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Memwyre Plans Pricing](https://apis.io/plans/memwyre-tech/memwyre-tech-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://memwyre.tech/)
+- [Documentation](https://docs.memwyre.tech/)
+- [Pricing](https://memwyre.tech/pricing)
+- [Blog](https://memwyre.tech/blog)
+- [Terms of service](https://memwyre.tech/terms)
+- [Privacy policy](https://memwyre.tech/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 20.5** — emerging · rubric 0.27.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 60.0 |
+
+**Agent readiness 26.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/memwyre-tech/](https://apis.io/providers/memwyre-tech/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Memwyre: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/memwyre-tech/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
